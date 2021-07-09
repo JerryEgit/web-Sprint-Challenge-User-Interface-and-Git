@@ -159,14 +159,17 @@ width: 50%
 header  {
     display:flex;
     justify-content: space-evenly;
+    
 }
 
 header img {
-    margin:1% 15% 0 2%;
+    margin:1% 0 0 8.5%;
 }
 
 header a {
     margin:0 15% 0 0;
+    padding: 6% 0 0 0;
+    
 }
 
 
@@ -174,6 +177,5 @@ header a {
 .jumbo {
     display: flex;
     justify-content: center;
-    width:50%;
-    height: 30vh;
+    
 }
