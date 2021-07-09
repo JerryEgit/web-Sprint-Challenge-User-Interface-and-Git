@@ -170,12 +170,12 @@ header img {
 
 }
 
-
-
-
-
 .jumbo {
     display: flex;
     justify-content: center;
-    
+    padding-bottom: 2%;
+}
+
+.testcontainer {
+    text-align: center;
 }
