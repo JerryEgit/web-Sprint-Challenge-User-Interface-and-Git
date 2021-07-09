@@ -216,6 +216,15 @@ background-color:darkorchid ;
 
 .container about-page {
     display: flex;
-    height: 50vh;
-    width:10%;
+    height: 40vh;
+    width:100%;
+    flex-flow: column wrap;
+    justify-content: space-evenly;
+    
 }
+.container about-page div {
+    display:flex;
+    height: 30vh;
+    width:10%
+}
+
