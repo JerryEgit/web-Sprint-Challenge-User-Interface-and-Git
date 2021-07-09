@@ -150,11 +150,13 @@ footer nav a {
 
 header nav {
     display:flex;
-justify-content: space-evenly;
-text-align: center;
+/* justify-content: space-around; */
+
+margin:0 0 0 0;
 width: 50%
+
 }
 
 header img {
-    /* margin:1% 60% 0 0; */
+    margin:1% 0 0 2%;
 }
