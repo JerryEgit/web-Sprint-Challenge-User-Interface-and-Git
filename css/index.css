@@ -214,3 +214,8 @@ background-color:darkorchid ;
     background-color:dodgerblue ;
 }
 
+.container about-page {
+    display: flex;
+    height: 50vh;
+    width:10%;
+}
