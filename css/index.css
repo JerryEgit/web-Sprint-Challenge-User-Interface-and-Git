@@ -226,5 +226,6 @@ background-color:darkorchid ;
     display:flex;
     height: 30vh;
     width:10%
+    flex-flow:column wrap;
 }
 
